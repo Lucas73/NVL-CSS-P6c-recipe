@@ -1,0 +1,28 @@
+#div-image{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ED3C61;
+}
+#home-image{
+  width:25%;
+  height: 600px;
+}
+.topnav{
+  height: 50px;
+  background-color: #FCE94E;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+html{
+  background-color:#FCE94E;
+}
+div > a{
+  font-size: 22px;
+  color: #ED3C61;
+  font-weight: bold; 
+}
+#logo{
+  width:45px
+}
